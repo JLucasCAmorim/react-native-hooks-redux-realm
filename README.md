@@ -26,10 +26,13 @@
 - [Contato](#contato)
 
 <!-- ABOUT THE PROJECT -->
+## About the Project
+
+The main point of this project is to learn more about the React-Native Hooks, and the Funtional Compontents with Redux. In my opinion, I achieved this goal, and maybe this project could help you to achieve your goal as well.
 
 ## Sobre o Projeto
 
-The main point of this project is learn more about the React-Native Hooks, and the Funtional Compontents with Redux. In my opinion, I achived this goal, and maybe this project could help you to achive your goal as well.
+O ponto principal deste projeto é aprender mais sobre os React-Native Hooks o e os Compostos Funcionais com Redux. Na minha opinião, eu alcancei esse objetivo, e talvez esse projeto possa ajudá-lo a alcançar seu objetivo também.
 
 ### Feito Com
 
